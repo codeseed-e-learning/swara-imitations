@@ -87,6 +87,7 @@ ul li a img {
 #collections .new-collection{
     width: 50%;
     background-image: url('./images/newcollection.jpg');
+    background-repeat: no-repeat;
     height: 300px;
     background-size: cover;
     display: flex;
